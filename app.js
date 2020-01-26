@@ -8,8 +8,9 @@ const init = (cols, rows) => {
     for (j = 1; j <= cols; j++) {
       const thisCell = document.createElement('div');
       thisCell.classList.add('cell');
-      thisCell.classList.add(`col${j}`);
-      thisCell.id = `${j}-${i}`;
+      thisCell.classList.add(`r${i}`)
+      thisCell.classList.add(`c${j}`);
+      thisCell.id = `c${j}r${i}`;
       thisRow.appendChild(thisCell);
     }
     app.append(thisRow);

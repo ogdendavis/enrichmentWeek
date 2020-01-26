@@ -20,11 +20,23 @@ the inspector.
 
 ## Day 2
 Students will learn to select an element by ID with JavaScript and output
-information about that element to the console.
+information about that element to the console. Students will learn to add or
+change inline styles using JavaScript.
+
+* Refresher on grid using classes and ids
+* What is a variable? Demonstrate in browser's JavaScript console
+* Demonstrate selecting element with getElementById
+* Demonstrate selecting element with querySelector (warn about multiples)
+* Demonstrate changing or adding inline style via the console
+* Have students recreate yesterday's drawing using JavaScript
+  * Students will copy/paste their code into a Google Doc
+  * Students will save this Doc for use throughout the week
+
+Example code in day2.js
 
 ## Day 3
-Students will learn to change inline style using the inspector, and to change
-styles using JavaScript.
+Students will learn to use variables to remember data and make changes more
+easily.
 
 ## Day 4
 Students will learn to select multiple items by class name in JavaScript, and
