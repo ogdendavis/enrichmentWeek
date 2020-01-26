@@ -29,14 +29,29 @@ change inline styles using JavaScript.
 * Demonstrate selecting element with querySelector (warn about multiples)
 * Demonstrate changing or adding inline style via the console
 * Have students recreate yesterday's drawing using JavaScript
-  * Students will copy/paste their code into a Google Doc
+  * Students will copy/paste their code into a Google Doc (or script.google)
   * Students will save this Doc for use throughout the week
 
 Example code in day2.js
 
 ## Day 3
 Students will learn to use variables to remember data and make changes more
-easily.
+easily. Students will learn that arrays are collections of data, and one
+basic way to loop over an array.
+
+* Copy/paste day 2 code into console, troubleshoot so all work
+  * Remember to copy/paste working code back into Google Doc!
+* Demonstrate using a variable to change color of all/many cells
+* Have students create a color variable and refactor their code to use it
+* Demonstrate creating an array with a group of items (cells) in it
+  * Use declaration method (e.g. var face = [eye1, eye2, nose];)
+  * Use push method (e.g. face.push(mouth);)
+* Have students create their own arrays -- check!
+* Demonstrate using a forEach loop to style each item in the array
+* Have students do it!
+* Have students use any remaining time to create and style cell groups in arrays
+
+Example code in day3.js
 
 ## Day 4
 Students will learn to select multiple items by class name in JavaScript, and
