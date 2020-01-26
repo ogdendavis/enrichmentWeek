@@ -11,6 +11,13 @@ Students will learn to view source, select an HTML element, and read the basic
 attributes of that element. They will be able to make changes to an element in
 the inspector.
 
+* Have students open starter file in their browser
+* Demonstrate opening the inspector, and using the mouse selection tool
+* Explain class and id attributes
+* Have students identify which row and col cells are in using attributes
+* Demonstrate adding style attribute with background color
+* Have students draw a smiley face or similar by adding bg color to cells
+
 ## Day 2
 Students will learn to select an element by ID with JavaScript and output
 information about that element to the console.
