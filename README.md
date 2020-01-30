@@ -54,9 +54,9 @@ basic way to loop over an array.
 Example code in day3.js
 
 ## Day 4
-Students will learn to select multiple items by class name in JavaScript, and
-to apply or remove classes from elements using JavaScript.
+Students will sketch a design, and begin writing the JavaScript code to
+implement that design on the canvas.
 
 # Day 5
-Students will use their skills, and a provided list of pre-made css classes,
-to create an original piece of art using the template grid.
+Students will complete their JavaScript code and present their finished design
+to the class.
